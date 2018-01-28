@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+
 from typing import TypeVar, Generic
 
 T = TypeVar('T')
