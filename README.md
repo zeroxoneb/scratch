@@ -1,1 +1,1 @@
-Moved to (gitlab)[https://gitlab.com/zeroxoneb/scratch]
+Moved to [gitlab](https://gitlab.com/zeroxoneb/scratch)
